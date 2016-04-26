@@ -8,6 +8,7 @@
 
 #import "TXTouchView.h"
 #import "YYMylayer.h"
+//asdasdasd
 @interface TXTouchView ()
 {
     CGContextRef    context;        //上下文
